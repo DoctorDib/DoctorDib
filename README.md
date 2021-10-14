@@ -29,8 +29,7 @@ This project is focussed on importing CSV data into a Unity application through 
 
 ## C# Projects - Private Projects  
 The following is a small list of C# private projects which are not available for the public viewing, however I would like to mention them:  
- -  **Project Rogue:**  **VR and PC RogueLike game** that takes place in a space station. The task is to clear every room and reach the end to defeat the boss.
- - 
+ -  **Project Rogue:**  **VR and PC RogueLike game** that takes place in a space station. The task is to clear every room and reach the end to defeat the boss.  
 
 ## JavaScript - React Projects  
 **MusicDEV - Final Year Project:**   
