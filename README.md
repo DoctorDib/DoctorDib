@@ -40,6 +40,10 @@ The following is a small list of C# private projects which are not available for
 **LostMyWheels** is a tool to help those in need, whether it is identifying a lost vehicle or reporting one. This is a completely free to use website that runs of both donations and low invasive ads. Our goal is to help those without placing a price tag on top. 
  - List: https://github.com/DoctorDib/BikeTheft  
 
+**PreCure Chat:**
+We aim to make a fully customisable experience for every user and offer a secure way to talk to your friends.
+ - List: https://github.com/DoctorDib/PreCureChat
+
 ## Python - Public Projects  
 
 **SANDRA V.6 - Home Automation System**  
