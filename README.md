@@ -21,7 +21,7 @@ A **72 hour GameJam** that took place on **10th August 2018**. You've been progr
 We decided as a group that we would like to take this game to the next level by fixing all current bugs and adding new levels and AI.  
 
  - Repo: https://github.com/MidgetJake/VimJam  
- - link: https://itch.io/jam/vimjam2/rate/1204664  
+ - Link: https://itch.io/jam/vimjam2/rate/1204664  
 
 **Start Cluster Simulation:**
 This project is focussed on importing CSV data into a Unity application through C#. The CSV data provides each star with the position, velocity, mass and id.
