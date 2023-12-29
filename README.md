@@ -50,9 +50,9 @@ We aim to make a fully customisable experience for every user and offer a secure
 One of my most recent versions of a **Home Automation System (V.6)** using **IoT (Internet of Things)** methods / devices to connect a wide range of **Raspberry Pi's** together detecting which room is currently being used.
 - Link: https://github.com/DoctorDib/SANDRA_Main
 
-**Pi Security Camera**
-Using a **Raspberry Pi** and a **Fish Eye Lens Camera** the project monitors and records my motorbike. This device records and stores up to 3 days worth of surveillance before managing and over writing old recordings.
-- Link:  https://github.com/DoctorDib/PiSecurityCamera  
+**Universal CCTV**
+Creating a universal CCTV to turn any computer, laptop or Raspberry Pi into a CCTV device with the ability to record and stream over the next work.
+- Link:  https://github.com/DoctorDib/Universal-CCTV  
 
 ## Java - Public Projects  
 **Ray Tracing - University Project**  
